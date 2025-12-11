@@ -4,11 +4,13 @@ body {
     font-family: "Poppins", sans-serif;
     font-weight: bolder;
     font-size: 25px;
+    color: black;
     }
 
-#barra-test {
-    background-color: transparent;
-
+.bg-body-barra {
+    background-color: black;
 }
 
-
+.colors {
+    color: yellow;
+}
